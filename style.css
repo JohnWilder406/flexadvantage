@@ -1,0 +1,17 @@
+.container {
+    background-color: silver;
+    width: 1217px;
+    display: flex;
+}
+
+.col {
+    height: 400px;
+    flex: 1;
+    background-color: slateblue;
+    margin: 20px;
+    padding: 20px;
+}
+
+.col-2 {
+    flex: 2;
+}
